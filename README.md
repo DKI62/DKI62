@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:dmitask@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dmitask%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dmitask@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/Shadow_dki">
     <img src="https://img.shields.io/badge/Telegram-@Shadow_dki-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -110,7 +110,7 @@ Parser for collecting and processing vacancies from public sources.
 ## Contacts
 
 <p align="center">
-  <a href="mailto:dmitask@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dmitask@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/Shadow_dki">
