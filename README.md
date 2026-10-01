@@ -62,32 +62,43 @@ The project is being developed around:
 
 > NOVA is currently private while its architecture and core runtime are being stabilized.
 
+<details>
+<summary><b>Русская версия</b></summary>
+
+<br>
+
+### NOVA — платформа оркестрации ИИ для Windows
+
+NOVA — мой основной долгосрочный проект: desktop-платформа для объединения локальных и облачных AI-моделей, инструментов и пользовательских сценариев в одном интерфейсе.
+
+Основные направления разработки:
+- маршрутизация провайдеров и моделей;
+- интеграция локальных и облачных AI-моделей;
+- выполнение инструментов и управление разрешениями;
+- постоянный контекст и память;
+- голосовой ввод/вывод и фоновый режим;
+- работа с браузером и компьютером;
+- интеграция с Windows;
+- оптимизация производительности и ресурсов.
+
+> Репозиторий NOVA пока приватный, пока стабилизируются архитектура и ядро приложения.
+
+</details>
+
 ## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,github,linux,vscode,qt,postman" />
 </p>
 
-### Backend
-
 <p align="center">
   <img src="https://img.shields.io/badge/DRF-REST%20APIs-B91C1C?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-Service%20Layer-0F766E?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-Data%20Layer-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### Infrastructure
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Redis-Cache%20%26%20Queues-C2413A?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-Background%20Jobs-4D7C0F?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Containers-0EA5E9?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-Cache%20%26%20Queues-DC2626?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-Background%20Jobs-65A30D?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Containers-0284C7?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Poetry-Dependencies-7C3AED?style=for-the-badge&logo=poetry&logoColor=white" />
-</p>
-
-### Desktop / AI
-
-<p align="center">
   <img src="https://img.shields.io/badge/PySide6-Desktop%20UI-16A34A?style=for-the-badge&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-Local%20AI-4F46E5?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-API%20Testing-EA580C?style=for-the-badge&logo=postman&logoColor=white" />
@@ -106,6 +117,23 @@ The project is being developed around:
 - Tool orchestration and routing
 - Docker-based development environments
 - Logging, diagnostics and reliability
+
+<details>
+<summary><b>Русская версия</b></summary>
+
+<br>
+
+- Архитектура backend и REST API
+- Модели данных PostgreSQL и бизнес-логика
+- Фоновые задачи и асинхронные процессы
+- Интеграции со сторонними API
+- Автоматизация и desktop tooling
+- Интеграция локальных и облачных AI-моделей
+- Оркестрация инструментов и маршрутизация задач
+- Docker-окружения для разработки
+- Логирование, диагностика и надёжность
+
+</details>
 
 ---
 
