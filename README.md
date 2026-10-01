@@ -142,5 +142,5 @@ NOVA — мой основной долгосрочный проект: desktop-
 </p>
 
 <p align="center">
-  <img src="./assets/profile-footer.svg" alt="" width="100%" />
+  <img src="./assets/profile-footer.svg?v=2" alt="" width="100%" />
 </p>
