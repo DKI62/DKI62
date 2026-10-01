@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:0ea5e9&text=Python%20Backend%20Engineer&fontSize=40&fontAlignY=40&desc=Automation%20%E2%80%A2%20AI%20Systems&descAlignY=62&fontColor=ffffff" />
 </p>
 
-<h2 align="center">Python Backend Engineer | Automation &amp; AI Systems</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=980&lines=Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL;Backend+Systems+%7C+REST+APIs+%7C+Automation;Local+%2B+Cloud+AI+%7C+Tool+Orchestration;Docker+%7C+Redis+%7C+PySide6" />
@@ -24,11 +23,11 @@
 
 ## About
 
-Backend engineer working primarily with Python.
+Python backend engineering across APIs, automation, integrations and application infrastructure.
 
-I focus on backend systems, REST APIs, system integration, automation and AI-enabled desktop software. My current work combines traditional backend engineering with local/cloud AI integration, tool execution and Windows desktop workflows.
+Work spans Django/FastAPI services, PostgreSQL, Redis, asynchronous tasks, external APIs, desktop tooling and AI-enabled workflows.
 
-I prefer practical systems with clear architecture, reproducible environments, observable behavior and a real user workflow behind them.
+The focus is on maintainable architecture, predictable execution and practical end-to-end systems.
 
 ---
 
