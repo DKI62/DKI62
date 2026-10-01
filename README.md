@@ -137,17 +137,10 @@ NOVA — мой основной долгосрочный проект: desktop-
 
 ---
 
-## GitHub activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DKI62&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKI62&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DKI62&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DKI62&style=for-the-badge&color=0ea5e9" />
+</p>
+
+<p align="center">
+  <img src="./assets/profile-footer.svg" alt="" width="100%" />
 </p>
