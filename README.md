@@ -52,15 +52,19 @@ The project is being developed around:
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,github,linux,vscode,qt,postman" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DRF-REST%20APIs-A30000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Celery-Background%20Jobs-37814A?style=flat-square" />
-  <img src="https://img.shields.io/badge/PySide6-Desktop%20UI-41CD52?style=flat-square&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-Local%20AI-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/FastAPI-Service%20Layer-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-REST%20APIs-A30000?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-Background%20Jobs-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySide6-Desktop%20UI-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ollama-Local%20AI-6C63FF?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Poetry-Dependency%20Management-60A5FA?style=for-the-badge&logo=poetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
