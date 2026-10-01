@@ -29,6 +29,19 @@ Work spans Django/FastAPI services, PostgreSQL, Redis, asynchronous tasks, exter
 
 The focus is on maintainable architecture, predictable execution and practical end-to-end systems.
 
+<details>
+<summary><b>Русская версия</b></summary>
+
+<br>
+
+Backend-разработка на Python с упором на API, автоматизацию, интеграции и прикладную инфраструктуру.
+
+Основные направления: Django/FastAPI, PostgreSQL, Redis, фоновые задачи, внешние API, desktop tooling и AI-интеграции.
+
+Приоритет — понятная архитектура, предсказуемое выполнение и практичные end-to-end системы.
+
+</details>
+
 ---
 
 ## Current focus
@@ -55,16 +68,29 @@ The project is being developed around:
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,github,linux,vscode,qt,postman" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DRF-REST%20APIs-A30000?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-Background%20Jobs-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySide6-Desktop%20UI-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-</p>
+### Backend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ollama-Local%20AI-6C63FF?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Poetry-Dependency%20Management-60A5FA?style=for-the-badge&logo=poetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-REST%20APIs-B91C1C?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-Service%20Layer-0F766E?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Data%20Layer-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### Infrastructure
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Redis-Cache%20%26%20Queues-C2413A?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-Background%20Jobs-4D7C0F?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Containers-0EA5E9?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Poetry-Dependencies-7C3AED?style=for-the-badge&logo=poetry&logoColor=white" />
+</p>
+
+### Desktop / AI
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PySide6-Desktop%20UI-16A34A?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-Local%20AI-4F46E5?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-EA580C?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
