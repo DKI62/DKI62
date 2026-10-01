@@ -1,17 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" preserveAspectRatio="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" preserveAspectRatio="none">
   <defs>
-    <linearGradient id="novaFooter" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="novaFooter" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="52%" stop-color="#1e3a8a"/>
+      <stop offset="48%" stop-color="#1e3a8a"/>
       <stop offset="100%" stop-color="#0ea5e9"/>
+      <animate attributeName="x1" values="0%;10%;0%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;90%;100%" dur="8s" repeatCount="indefinite"/>
     </linearGradient>
-    <linearGradient id="novaFooterSoft" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#111827" stop-opacity="0.95"/>
+
+    <linearGradient id="novaFooterSoft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#111827" stop-opacity="0.96"/>
       <stop offset="55%" stop-color="#1d4ed8" stop-opacity="0.78"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.88"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.9"/>
     </linearGradient>
+
+    <linearGradient id="novaLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0"/>
+      <stop offset="52%" stop-color="#38bdf8" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="softGlow" x="-10%" y="-50%" width="120%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
-  <path d="M0 50 C180 90 340 18 520 54 C700 90 860 118 1200 48 L1200 140 L0 140 Z" fill="url(#novaFooterSoft)"/>
-  <path d="M0 78 C220 36 390 112 610 82 C820 54 1000 22 1200 70 L1200 140 L0 140 Z" fill="url(#novaFooter)" opacity="0.92"/>
-  <path d="M0 112 C250 94 410 126 650 106 C860 90 1030 82 1200 102" fill="none" stroke="#38bdf8" stroke-opacity="0.35" stroke-width="2"/>
+
+  <path fill="url(#novaFooterSoft)" opacity="0.72"
+    d="M0 42 C180 88 350 18 530 52 C720 88 885 116 1200 42 L1200 150 L0 150 Z">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="
+      M0 42 C180 88 350 18 530 52 C720 88 885 116 1200 42 L1200 150 L0 150 Z;
+      M0 58 C190 24 365 96 545 58 C730 20 930 66 1200 54 L1200 150 L0 150 Z;
+      M0 42 C180 88 350 18 530 52 C720 88 885 116 1200 42 L1200 150 L0 150 Z"/>
+    <animate attributeName="opacity" values="0.62;0.84;0.62" dur="7s" repeatCount="indefinite"/>
+  </path>
+
+  <path fill="url(#novaFooter)" opacity="0.94"
+    d="M0 78 C220 34 390 112 610 82 C820 54 1000 24 1200 70 L1200 150 L0 150 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+      M0 78 C220 34 390 112 610 82 C820 54 1000 24 1200 70 L1200 150 L0 150 Z;
+      M0 66 C220 104 420 42 620 76 C820 110 1000 84 1200 56 L1200 150 L0 150 Z;
+      M0 78 C220 34 390 112 610 82 C820 54 1000 24 1200 70 L1200 150 L0 150 Z"/>
+  </path>
+
+  <path fill="#020617" opacity="0.32"
+    d="M0 118 C250 90 430 132 650 108 C860 84 1040 92 1200 104 L1200 150 L0 150 Z">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite"
+      values="
+      M0 118 C250 90 430 132 650 108 C860 84 1040 92 1200 104 L1200 150 L0 150 Z;
+      M0 108 C240 132 450 92 670 116 C880 138 1030 104 1200 112 L1200 150 L0 150 Z;
+      M0 118 C250 90 430 132 650 108 C860 84 1040 92 1200 104 L1200 150 L0 150 Z"/>
+  </path>
+
+  <path fill="none" stroke="url(#novaLine)" stroke-width="2" filter="url(#softGlow)"
+    d="M0 108 C250 94 410 126 650 106 C860 90 1030 82 1200 102">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+      M0 108 C250 94 410 126 650 106 C860 90 1030 82 1200 102;
+      M0 100 C220 122 430 90 660 112 C890 132 1030 96 1200 94;
+      M0 108 C250 94 410 126 650 106 C860 90 1030 82 1200 102"/>
+    <animate attributeName="opacity" values="0.35;0.9;0.35" dur="4s" repeatCount="indefinite"/>
+  </path>
 </svg>
