@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=980&lines=Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL;Backend+Systems+%7C+REST+APIs+%7C+Automation;Local+%2B+Cloud+AI+%7C+Tool+Orchestration;Docker+%7C+Redis+%7C+PySide6+%7C+Windows" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=980&lines=Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL;Backend+Systems+%7C+REST+APIs+%7C+Automation;Local+%2B+Cloud+AI+%7C+Tool+Orchestration;Docker+%7C+Redis+%7C+PySide6" />
 </p>
 
 <p align="center">
@@ -47,25 +47,6 @@ The project is being developed around:
 - performance and resource management.
 
 > NOVA is currently private while its architecture and core runtime are being stabilized.
-
----
-
-## Русская версия
-
-Backend-инженер, основной стек — Python.
-
-Занимаюсь backend-системами, REST API, системной интеграцией, автоматизацией и desktop-приложениями с AI-функциональностью. Сейчас основной долгосрочный проект — **NOVA**, Windows-приложение, которое объединяет локальные и облачные AI-модели, инструменты и пользовательские сценарии в одном интерфейсе.
-
-Основные направления работы:
-- архитектура backend и API;
-- интеграция локальных и облачных моделей;
-- оркестрация инструментов и маршрутизация задач;
-- автоматизация и desktop tooling;
-- работа с контекстом, памятью и состоянием;
-- голосовой ввод/вывод;
-- производительность, диагностика и надёжность.
-
----
 
 ## Tech stack
 
