@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:0ea5e9&text=Python%20Backend%20Developer&fontSize=42&fontAlignY=40&desc=API%20%7C%20Automation%20%7C%20Integrations%20%7C%20Data%20Workflows&descAlignY=62&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:0ea5e9&text=Backend%20Engineer%20%7C%20AI%20Orchestration&fontSize=40&fontAlignY=40&desc=Python%20%E2%80%A2%20APIs%20%E2%80%A2%20Automation%20%E2%80%A2%20Desktop%20AI%20Systems&descAlignY=62&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=980&lines=Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL;Backend+Development+%7C+REST+API+%7C+Automation;Docker+%7C+Redis+%7C+Celery+%7C+Linux;Cursor+%7C+Codex+%7C+ChatGPT+%7C+AI-assisted+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=980&lines=Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL;Backend+Systems+%7C+REST+APIs+%7C+Automation;AI+Orchestration+%7C+Local+%2B+Cloud+Models;Docker+%7C+Redis+%7C+Windows+Desktop+Tooling" />
 </p>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dmitask@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:dmitask@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dmitask%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/Shadow_dki">
-    <img src="https://img.shields.io/badge/Telegram-@Shadow_dki-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-@Shadow__dki-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/DKI62">
     <img src="https://img.shields.io/badge/GitHub-DKI62-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -20,81 +20,75 @@
 
 ---
 
-## Backend / API / Automation
+## About
 
-Python-разработчик с упором на backend, REST API, автоматизацию процессов и интеграции.  
-Работаю с веб-сервисами, бизнес-логикой, БД, фоновыми задачами, парсингом и внутренними инструментами.
+Python developer focused on backend systems, APIs, automation and AI-enabled desktop software.
 
----
-
-## Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,github,linux,postman,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+I build projects around practical system integration: backend services, local/cloud model orchestration, desktop workflows, data processing and developer tooling. I care about maintainable architecture, reproducible environments and software that solves an actual workflow instead of existing only as a demo.
 
 ---
 
-## AI-assisted workflow
+## Current focus
+
+### NOVA — desktop AI orchestration platform
+Active long-term project.
+
+NOVA is being developed as a user-owned orchestration layer for local and cloud AI models, tools and desktop workflows. The goal is to make model selection, tool execution, memory, voice, browser/computer interaction and resource management work behind one consistent interface.
+
+**Current engineering focus:**
+- orchestration core and provider routing;
+- local + cloud AI model support;
+- Windows desktop integration;
+- voice I/O and background runtime;
+- tool execution and permissions;
+- persistent context and local data;
+- performance and resource management.
+
+> The repository is currently private while the architecture is being stabilized.
+
+---
+
+## Selected backend work
+
+### [Electronics Network API — Django / DRF](https://github.com/DKI62/TestTask)
+
+Backend test project implementing a hierarchical electronics supplier network with authenticated API access and administration tools.
+
+**Highlights:** Django 5.1, Django REST Framework, PostgreSQL, Docker, JWT, filtering, Swagger/OpenAPI, custom admin actions and automatic hierarchy levels.
+
+---
+
+## Tech stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cursor-AI%20IDE-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-AI%20Assistant-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,github,linux,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DRF-REST%20APIs-A30000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Celery-Background%20Jobs-37814A?style=flat-square" />
+  <img src="https://img.shields.io/badge/PySide6-Desktop%20UI-41CD52?style=flat-square&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-Local%20AI-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/FastAPI-Service%20Layer-009688?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
 
 ---
 
-## Core areas
+## Engineering areas
 
-- Backend development
-- REST API design
-- Business logic implementation
-- PostgreSQL and Redis integration
-- Background jobs and task queues
-- Automation scripts and parsers
+- Backend architecture and REST APIs
+- PostgreSQL data models and business logic
+- Background jobs and async workflows
 - External API integrations
-- Docker-based local deployment
+- Automation and desktop tooling
+- Local/cloud AI model integration
+- AI tool orchestration and routing
+- Docker-based development environments
+- Logging, diagnostics and reliability
 
 ---
 
-## Featured projects
-
-### 🚀 [Habit Tracker](https://github.com/DKI62/Habit-Tracker)
-Backend API for habit management with Telegram notifications, scheduling, and business logic.
-
-**Tech:** Python, Django, DRF, PostgreSQL, Celery, Redis, Telegram API
-
----
-
-### 📬 [Mailing Service](https://github.com/DKI62/Mailing-Service)
-Service for automated messaging, mailing workflows, and administration logic.
-
-**Tech:** Python, Django, PostgreSQL, Redis, Celery
-
----
-
-### 🔍 [Vacancy Finder](https://github.com/DKI62/Vacancy-Finder)
-Parser for collecting and processing vacancies from public sources.
-
-**Tech:** Python, parsing, data processing, automation
-
----
-
-## GitHub stats
+## GitHub activity
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DKI62&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -103,19 +97,6 @@ Parser for collecting and processing vacancies from public sources.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DKI62&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Contacts
-
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dmitask@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/Shadow_dki">
-    <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
