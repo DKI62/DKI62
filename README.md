@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:0ea5e9&text=Backend%20Engineer%20%7C%20AI%20Orchestration&fontSize=40&fontAlignY=40&desc=Python%20%E2%80%A2%20APIs%20%E2%80%A2%20Automation%20%E2%80%A2%20Desktop%20AI%20Systems&descAlignY=62&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:0ea5e9&text=Backend%20Engineer%20%7C%20AI%20Systems%20%26%20Automation&fontSize=38&fontAlignY=40&desc=Python%20%E2%80%A2%20APIs%20%E2%80%A2%20System%20Integration%20%E2%80%A2%20Desktop%20AI&descAlignY=62&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=980&lines=Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL;Backend+Systems+%7C+REST+APIs+%7C+Automation;AI+Orchestration+%7C+Local+%2B+Cloud+Models;Docker+%7C+Redis+%7C+Windows+Desktop+Tooling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=980&lines=Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL;Backend+Systems+%7C+REST+APIs+%7C+Automation;Local+%2B+Cloud+AI+%7C+Tool+Orchestration;Docker+%7C+Redis+%7C+PySide6+%7C+Windows" />
 </p>
 
 <p align="center">
@@ -22,39 +22,48 @@
 
 ## About
 
-Python developer focused on backend systems, APIs, automation and AI-enabled desktop software.
+Backend engineer working primarily with Python.
 
-I build projects around practical system integration: backend services, local/cloud model orchestration, desktop workflows, data processing and developer tooling. I care about maintainable architecture, reproducible environments and software that solves an actual workflow instead of existing only as a demo.
+I focus on backend systems, REST APIs, system integration, automation and AI-enabled desktop software. My current work combines traditional backend engineering with local/cloud AI integration, tool execution and Windows desktop workflows.
+
+I prefer practical systems with clear architecture, reproducible environments, observable behavior and a real user workflow behind them.
 
 ---
 
 ## Current focus
 
 ### NOVA — desktop AI orchestration platform
-Active long-term project.
 
-NOVA is being developed as a user-owned orchestration layer for local and cloud AI models, tools and desktop workflows. The goal is to make model selection, tool execution, memory, voice, browser/computer interaction and resource management work behind one consistent interface.
+NOVA is my active long-term project: a Windows desktop platform designed to coordinate local and cloud AI models, tools and user workflows behind one consistent interface.
 
-**Current engineering focus:**
-- orchestration core and provider routing;
-- local + cloud AI model support;
-- Windows desktop integration;
+The project is being developed around:
+- provider and model routing;
+- local + cloud AI integration;
+- tool execution and permission control;
+- persistent context and memory;
 - voice I/O and background runtime;
-- tool execution and permissions;
-- persistent context and local data;
+- browser and computer interaction;
+- Windows desktop integration;
 - performance and resource management.
 
-> The repository is currently private while the architecture is being stabilized.
+> NOVA is currently private while its architecture and core runtime are being stabilized.
 
 ---
 
-## Selected backend work
+## Русская версия
 
-### [Electronics Network API — Django / DRF](https://github.com/DKI62/TestTask)
+Backend-инженер, основной стек — Python.
 
-Backend test project implementing a hierarchical electronics supplier network with authenticated API access and administration tools.
+Занимаюсь backend-системами, REST API, системной интеграцией, автоматизацией и desktop-приложениями с AI-функциональностью. Сейчас основной долгосрочный проект — **NOVA**, Windows-приложение, которое объединяет локальные и облачные AI-модели, инструменты и пользовательские сценарии в одном интерфейсе.
 
-**Highlights:** Django 5.1, Django REST Framework, PostgreSQL, Docker, JWT, filtering, Swagger/OpenAPI, custom admin actions and automatic hierarchy levels.
+Основные направления работы:
+- архитектура backend и API;
+- интеграция локальных и облачных моделей;
+- оркестрация инструментов и маршрутизация задач;
+- автоматизация и desktop tooling;
+- работа с контекстом, памятью и состоянием;
+- голосовой ввод/вывод;
+- производительность, диагностика и надёжность.
 
 ---
 
@@ -82,7 +91,7 @@ Backend test project implementing a hierarchical electronics supplier network wi
 - External API integrations
 - Automation and desktop tooling
 - Local/cloud AI model integration
-- AI tool orchestration and routing
+- Tool orchestration and routing
 - Docker-based development environments
 - Logging, diagnostics and reliability
 
@@ -91,7 +100,7 @@ Backend test project implementing a hierarchical electronics supplier network wi
 ## GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DKI62&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DKI62&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKI62&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
